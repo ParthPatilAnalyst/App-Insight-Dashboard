@@ -7,9 +7,9 @@ This project analyzes Google Play Store app data to uncover insights about app s
 The interactive Power BI dashboard helps stakeholders understand market trends and make data-driven decisions for app development and marketing strategy.
 
 
-![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/0617347a534493b9f294fc4237a03c6199ead67b/1.png)
-![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/0617347a534493b9f294fc4237a03c6199ead67b/3.png)
-![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/0617347a534493b9f294fc4237a03c6199ead67b/4.png)
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/1.png)
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/2.png)
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/3.png)
 ---
 
 
