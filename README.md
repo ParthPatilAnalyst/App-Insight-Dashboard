@@ -198,4 +198,3 @@ This project demonstrates how raw app marketplace data can be transformed into m
 The analysis confirms that app success is driven more by category demand, engagement, and rating quality rather than size alone.
 
 
-Tell me 👌
