@@ -8,7 +8,7 @@ The interactive Power BI dashboard helps stakeholders understand market trends a
 
 
 ![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/1.png)
-![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/2.png)
+![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/cb31a75ce4849cc2b2293c64c872eb0d71dea0c4/Screenshot%202026-02-19%20072231.png)
 ![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/3.png)
 ---
 
