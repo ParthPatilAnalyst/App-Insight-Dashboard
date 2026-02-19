@@ -13,7 +13,7 @@ The interactive Power BI dashboard helps stakeholders understand market trends a
 ---
 
 
-##  S – Situation
+##  Situation
 
 The company acquired a large dataset from the Google Play Store containing 10,000+ apps with attributes such as ratings, installs, reviews, size, category, type (free/paid), and update information.
 
@@ -29,7 +29,7 @@ The dataset required cleaning, transformation, and structured visualization for 
 
 ---
 
-##  T – Task
+##  Task
 
 As a Power BI Developer, my objective was to:
 
@@ -41,7 +41,7 @@ As a Power BI Developer, my objective was to:
 
 ---
 
-##  A – Action
+##  Action
 
 ###  1. Data Preparation
 
