@@ -121,7 +121,7 @@ Purpose: Analyze whether app size impacts installs.
 
 ---
 
-##  R – Result
+##  Result
 
 The dashboard revealed several key insights:
 
