@@ -5,7 +5,7 @@
 This project analyzes Google Play Store app data to uncover insights about app success factors such as ratings, installs, reviews, category performance, pricing impact, and size optimization.
 
 The interactive Power BI dashboard helps stakeholders understand market trends and make data-driven decisions for app development and marketing strategy.
-
+Live Dashboard Link :- https://app.powerbi.com/view?r=eyJrIjoiODY5M2NjZGEtYjA1ZS00MDJlLTllNTUtMjIxZDE4OTgxOTI4IiwidCI6IjVjZTE4MWM3LTA1NTktNDUzYS1hNGJjLWIwNDMxN2RkMzIzZiJ9
 
 ![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/f5c798f41da433ec9d08ad1ea3c49f468f662a3e/1.png)
 ![image alt](https://github.com/ParthPatilAnalyst/App-Insight-Dashboard/blob/cb31a75ce4849cc2b2293c64c872eb0d71dea0c4/Screenshot%202026-02-19%20072231.png)
